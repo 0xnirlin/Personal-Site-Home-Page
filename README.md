@@ -3,4 +3,4 @@ Personal Site Home Page Designed In Figma and developed using html and css mostl
 # Design File
 Figma design file is at: https://www.figma.com/file/pIEsLtE1h88jKuc3WMafAy/Personal-Blog-Design?node-id=0%3A1
 # Deployment Link
-personalflexblog.surge.sh
+https://www.personalflexblog.surge.sh
